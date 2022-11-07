@@ -55,8 +55,8 @@ $result = mysqli_query($conn, $query);
                             <td><?php echo  $row["name"]; ?></td>
                             <td><?php echo  $row["email"]; ?></td>
                             <td><?php echo  $row["occasion"]; ?></td>
-                            <td><?php echo  $row["order_date"]; ?></td>
                             <td><?php echo  $row["address"]; ?></td>
+                            <td><?php echo  $row["order_date"]; ?></td>
                             <td><?php echo  $row["city"]; ?></td>
                             <td><?php echo  $row["state"]; ?></td>
                             <td><?php echo  $row["zip"]; ?></td>

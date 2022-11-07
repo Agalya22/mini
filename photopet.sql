@@ -92,7 +92,8 @@ ALTER TABLE `order`
 ALTER TABLE `admin`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
---
+ 
+
 -- AUTO_INCREMENT for table `order`
 --
 ALTER TABLE `order`
